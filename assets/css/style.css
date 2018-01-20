@@ -1,0 +1,16 @@
+body {
+	background-image: url("stars3.jpg");
+}
+#gifDiv {
+}
+#searchLabel {
+	color: white;
+	font-size: 40px;
+}
+.gifClass {
+	border-color: white;
+	border-style: solid;
+	border-width: thick;
+	width: 200px;
+	height: auto;
+}
